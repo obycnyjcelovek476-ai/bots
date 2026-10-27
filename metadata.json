@@ -1,0 +1,6 @@
+{
+  "name": "Exenta Bot Studio — Сборка и Песочница СБП-Бота",
+  "description": "Интерактивный сборщик проекта exenta_bot (Python 3.11+ / aiogram 3), генератор .env и bash-инсталлятора, симулятор платежей СБП и чеклист деплоя.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
